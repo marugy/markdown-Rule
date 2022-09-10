@@ -102,6 +102,14 @@ CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 �
 
 ```bash
 $ git commit -m 'Studey Markdown'
+
+$ git init  
+$ git status  
+$ git add .  
+$ git commit -m '내용써주고'  
+$ git remote add origin repositoty주소
+git push origin master
+
 ```
 
 ```plaintext
